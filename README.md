@@ -21,5 +21,7 @@ Check Prerequisities.
 goto comand line->connect andorid device via cable-> type >adb devices  device name show. OK
 goto comand line->node -v  it should display v4.5.0 than it is  OK
 launch appium. Appium screen should open. OK
+goto cmd and type >uiautomatorviewer it should open screen and let you capture the movile layout. 
 
+for more details write to me on akshay@buzzybrains.com or visit http://appium.io/slate/en/v1.1.0/?java#running-appium-on-windows
 

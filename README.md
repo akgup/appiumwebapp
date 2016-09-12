@@ -21,4 +21,3 @@ goto comand line->connect andorid device via cable-> type >adb devices  device n
 goto comand line->node -v  it should display v4.5.0 than it is  OK
 
 
-

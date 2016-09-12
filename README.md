@@ -1,6 +1,7 @@
 # appiumwebapp
 Contains demo of automating mobile web app using appium using java, testNg, Maven on android real device.
-Test i ran on Redmi3S prime with andorid version 6.0 on chrome browser.
+Test was on Redmi3S prime with andorid version 6.0 on chrome browser.
+For rerporting i have used. ReportNg
 
 -------------Scenarios I have automatd are below-----------
 VerifyPhoneNumberFormatError
@@ -19,5 +20,6 @@ VerifyAlreadyTakenMailIdError
 Check Prerequisities. 
 goto comand line->connect andorid device via cable-> type >adb devices  device name show. OK
 goto comand line->node -v  it should display v4.5.0 than it is  OK
+launch appium. Appium screen should open. OK
 
 
